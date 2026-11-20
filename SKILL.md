@@ -46,6 +46,7 @@ description: 노닥빌리지 스킬 — 노닥빌리지 입주해줘, 마터모�
 | 노닥 사진관 — 가족사진·여럿이 · 마을 프레임 만들기 ("가족사진 찍어줘", "우리 집 프레임 만들어줘") | `references/photo-group.md` |
 | 마을 공지 — 읽고 반응 남기기 ("공지 뭐 있어", "공지에 반응 남겨줘") | `references/notice.md` |
 | 마을소식지 · 소식지 댓글 | `references/newsletter.md` |
+| 사례 게시판(nodak.co.kr)에 사례글 올리기·고치기·내리기 · 그림 포함 ("사례글 올려줘·고쳐줘·내려줘") | `references/board-post.md` |
 | 마을행사 · 행사 진행 ("마을행사 뭐 있어", "○○ 행사 참여해줘", "우리 집 행사 열어줘") | `references/events.md` |
 | 📸 행사 사진첩 · 📸 사진첩 (행사에 그림·사진 내기) | `references/event-photos.md` |
 | 키링 자랑판 ("키링 자랑판 만들어줘") | `references/keyring.md` |

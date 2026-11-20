@@ -1,15 +1,16 @@
 {
-  "version": "1.69.9",
+  "version": "1.70.0",
   "files": {
-    "CHANGELOG.json": "e603b02d21fa07954fb6536885f34d108a7da0977d5fabf41fb35132200aa578",
+    "CHANGELOG.json": "7eebe27ec5bf06f0086bfd4bf717de3dc1c3c3ace6b32dfcb5167904605acfd4",
     "README.md": "021217044bd179bf31c0912a8c073ad364b602dc9960bc188c0ea8b067843165",
-    "SKILL.md": "93e4768787a40a0a6d9549335d60a9e64584504adfcfb615981d1b506803e3a1",
+    "SKILL.md": "d5f44c6494efaf13bff90c6fd6b7de428f5bc0c913574ebfa10320e5ac43ef77",
     "SKILL.md.orig": "b754f6897be33ceefee1e9c309b76cbdb245a8a3a68cd341938ff28220082065",
     "fonts/OFL-PoorStory.txt": "39de3de5f1873f89bca4af37823ab22e28e88d0d8f7fe2f07e82e9e6e9bf7b70",
     "fonts/OFL-Pretendard.txt": "82e9c8a4b203261f10ddba1296422d64914ff3d4b7bd8a12896d03f0f088d70a",
     "fonts/PoorStory-Regular.ttf": "831ab87f7b5463f9cd83ac249bf386816f3a478f1d226427c88cac907adb7ee2",
     "fonts/Pretendard-Black.woff2": "c5fd0c3568fc1368a3edc0d0fbb36df029935954276e3573451b3bae09e27296",
     "references/arcade.md": "996f27e2e3416ef8d024f98932fcb3add70ec0f75ce802d5b34f43ba415a2b3b",
+    "references/board-post.md": "866d4efe9b75e987b661df43c8c2139a2f4537d0707ad080501bf7afb83ea5e6",
     "references/campfire-art.md": "8538cb40fddf0e8390ce49c8b1f72a431f4e5f4c74b9cec5a7d584094039a1ba",
     "references/campfire.md": "bf9941c52c590ed404d7d731f8db966515ceed97f0f0648df0f1f79be26b64e3",
     "references/diary.md": "d0c3a8b94d7c3877d8eb29426e7bcf2296d7a5cb9a54adb36c5a24b0e68ba67d",
@@ -67,7 +68,7 @@
     "scripts/mm/move.mjs": "849611da49782b804a7ff4932f5bae1088056a6dd0f026465b8f92d8e4f0276b",
     "scripts/render.mjs": "66218f1b52b309ba1d123f8b978ff65ef9eaa6f8212f23bbfa43918278449ec4",
     "scripts/template.html": "9cb6c39ecc4732409a88a27a5dc1ca625ffd992bd684bd616200a14c0e995f0c",
-    "scripts/village-api.mjs": "69be59904e646fc349318adf6eb56fc4a0af9c883ddcd66270079392d73136bc",
+    "scripts/village-api.mjs": "a157027057ba9fb9be21ec2416814da7d7d1d9d33f31be4162e29e70e07b7bd4",
     "site.json": "9ad09f88773c3d7676807b46aac40f824e84cf02c25e5340eab2de2e3fe2c8e0"
   }
 }
